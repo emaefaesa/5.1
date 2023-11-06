@@ -1,0 +1,12 @@
+.contenedor h3 {
+    background-color: grey;
+}
+
+h1 + p {
+    font-size: 2em;
+}
+
+#contenedor {
+    border: 2px solid red;
+    background-color: yellow;
+}
